@@ -108,7 +108,7 @@ Artist: Adele
 ---
 
 ## ⏰ Deadline
-[Insert Date/Time Here]
+03/01/2026
 
 ---
 
