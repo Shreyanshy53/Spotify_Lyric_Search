@@ -65,19 +65,6 @@ However, the Top-5 accuracy of 61% demonstrates strong retrieval performance.
 
 ---
 
-## 📁 Repository Structure
-spotify-lyric-search/
-│
-├── data/
-│   └── Spotify_Million_Song_Dataset_exported.csv
-├── notebook/
-│   └── spotify_lyric_search.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
-
 ## 🔧 Installation & Execution
 
 ### 1. Clone the Repository
